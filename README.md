@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Om Bhanuse</h1>
-<h3 align="center">A passionate Full Stack and App developer from India</h3>
+<h3 align="center">A passionate Full Stack Web and App developer from India</h3>
 
 - 🔭 I’m currently working on **web projects in React**
 
