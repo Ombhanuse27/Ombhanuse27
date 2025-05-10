@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Om Bhanuse</h1>
 <h3 align="center">A passionate Full Stack Web and App developer from India</h3>
 
-- 🔭 I’m currently working on **web projects in ReactJS and NextJS**
+- 🔭 I’m currently working on **web projects in ReactJS and Next.js**
 
-- 🌱 I’m currently learning **MERN Stack and DSA in Java**
+- 🌱 I’m currently learning **DevOps and Linux**
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
