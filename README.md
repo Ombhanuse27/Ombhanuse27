@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Ombhanuse27/Ombhanuse27/assets/your-banner-path/banner.gif" alt="Om Bhanuse Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Om Bhanuse</h1>
 <h3 align="center">A passionate Full Stack and App developer from India</h3>
 
