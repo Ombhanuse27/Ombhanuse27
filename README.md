@@ -73,7 +73,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombhanuse27&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="left">🌱 Contribution Graph:</h3>
-<p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=Ombhanuse27&theme=radical" alt="GitHub Contribution Graph" />
-</p>
+
