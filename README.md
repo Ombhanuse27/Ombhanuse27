@@ -65,8 +65,9 @@
 
 <h3 align="left">🔥 GitHub Streak:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ombhanuse27&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ombhanuse27&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <h3 align="left">📌 Most Used Languages:</h3>
 <p align="center">
