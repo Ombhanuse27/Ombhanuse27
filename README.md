@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Om Bhanuse</h1>
-<h3 align="center">A passionate Full Stack Web & App Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://myportfolio-eta-olive.vercel.app/" target="_blank">
@@ -24,34 +24,34 @@
 - 🔭 Currently building **production-grade apps using React & Next.js**
 - 🌱 Learning **DevOps, Linux & Cloud**
 - 👯 Open to **Open-Source collaborations**
-- 📫 Reach me at **ombhanuse7@gmail.com**
+- 📫 Reach me at **ombhanuse364@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,java,python,mongodb,mysql,postgres,prisma,docker,linux,git,github,firebase,figma,flutter,android" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,ts,js,java,python,mongodb,mysql,postgres,prisma,docker,linux,git,github,firebase,figma,android" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ombhanuse27&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ombhanuse27&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ombhanuse27&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Ombhanuse27&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### 📌 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ombhanuse27&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombhanuse27&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
