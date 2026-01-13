@@ -37,9 +37,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/Ombhanuse27.png?size=200" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ombhanuse27&theme=radical" />
