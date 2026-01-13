@@ -36,28 +36,25 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ombhanuse27&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Om's GitHub Stats"
-  />
+  <img src="https://github.com/Ombhanuse27.png?size=200" />
 </p>
 
-## 🔥 GitHub Streak
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ombhanuse27&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="Om's GitHub Streak"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ombhanuse27&theme=radical" />
 </p>
 
-## 📌 Most Used Languages
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombhanuse27&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ombhanuse27&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ombhanuse27&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ombhanuse27&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ombhanuse27&theme=radical&utcOffset=5.5" />
+</p>
+
 
 
 ---
