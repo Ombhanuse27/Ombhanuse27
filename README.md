@@ -30,29 +30,35 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,ts,js,java,python,mongodb,mysql,postgres,prisma,docker,linux,git,github,firebase,figma,android" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,ts,js,java,python,php,mongodb,mysql,postgres,prisma,docker,kubernetes,CI/CD,linux,git,github,firebase,figma,android,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ombhanuse27&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ombhanuse27&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Om's GitHub Stats"
+  />
 </p>
 
----
-
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ombhanuse27&theme=radical&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Ombhanuse27&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="Om's GitHub Streak"
+  />
 </p>
 
----
-
-### 📌 Most Used Languages
+## 📌 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombhanuse27&layout=compact&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombhanuse27&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
